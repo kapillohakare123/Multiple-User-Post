@@ -11,9 +11,14 @@ This plugin will add multiple users to single post. WordPress don't provide you 
 
 == Description ==
 
-This plugin will be helpful if you want to have multiple editor for single post.
-This plugin will add the multiple users to single post so that each user can contribute to the post.
-The Plugin will send and email to registered user to add/suggest the edits in the given post.
+*This plugin will be helpful if you want to have multiple editor for single post.
+*This plugin will add the multiple users to single post so that each user can contribute to the post.
+*The Plugin will send and email to registered user to add/suggest the edits in the given post.
+*Post author can select/assign the user to post and publish the post.
+*The same post content will be forwarded to users and email be sent out for suggesting update.
+*User will logged into the admin panel and edit the post at their end. Same information will be forwarded to the author of the post. This information will be displayed into the meta field of the post and author can see it.
+*One new "Unread" Custom post type is created for storing these suggestions and this CPT will be hidden from front end so that these edits access protection will be controlled.
+
 
 
 == Installation ==
